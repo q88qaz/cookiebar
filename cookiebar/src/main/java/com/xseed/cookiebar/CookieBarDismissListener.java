@@ -1,4 +1,4 @@
-package org.aviran.cookiebar2;
+package com.xseed.cookiebar;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

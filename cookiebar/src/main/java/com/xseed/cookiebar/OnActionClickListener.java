@@ -1,4 +1,4 @@
-package org.aviran.cookiebar2;
+package com.xseed.cookiebar;
 
 public interface OnActionClickListener {
     void onClick();

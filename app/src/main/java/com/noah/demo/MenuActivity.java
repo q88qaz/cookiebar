@@ -4,7 +4,7 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import org.aviran.cookiebar2.CookieBar;
+import com.xseed.cookiebar.CookieBar;
 
 public class MenuActivity extends AppCompatActivity {
     @Override

@@ -1,4 +1,4 @@
-package org.aviran.cookiebar2;
+package com.xseed.cookiebar;
 
 import android.content.Context;
 import android.content.res.TypedArray;

@@ -1,4 +1,4 @@
-package org.aviran.cookiebar2;
+package com.xseed.cookiebar;
 
 import android.animation.Animator;
 import android.content.Context;
@@ -25,7 +25,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import org.aviran.cookiebar2.CookieBarDismissListener.DismissType;
+import com.xseed.cookiebar.CookieBarDismissListener.DismissType;
 
 final class Cookie extends LinearLayout implements View.OnTouchListener {
     //Used for debug purposes

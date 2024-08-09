@@ -1,4 +1,4 @@
-package org.aviran.cookiebar2;
+package com.xseed.cookiebar;
 
 import android.animation.AnimatorInflater;
 import android.animation.AnimatorSet;
